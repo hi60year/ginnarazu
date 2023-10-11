@@ -1,0 +1,18 @@
+navbar:
+  categories:
+    Categories:
+      icon: fa-solid fa-folder
+      path: /categories/
+      
+info: 
+  title: 銀不成
+  author: conko
+
+defaults:
+  avatar: https://avatars.githubusercontent.com/u/25002504?s=400&u=231a59706651e739a8a35ad9308bd0cf3d05bfeb&v=4
+
+home_banner:
+  title: 銀不成
+  subtitle:
+    text: ["Lösen: Kein Eintrag"]
+    loop: false
